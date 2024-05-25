@@ -26,14 +26,9 @@ This project involves designing and developing a fully responsive blog website f
 
 Feel free to explore, fork, and contribute to this project. Your feedback and suggestions are highly appreciated!
 
-## Demo Video
-
-[Watch the demo video](Moon_Web_NO_Aud.mp4)
-
-
 ## Contact
 
-If you have any questions or need more information, please contact me at harshav1752002@gmail.com.
+If you have any questions or need more information, please get in touch with me at harshav1752002@gmail.com.
 
 ---
 
